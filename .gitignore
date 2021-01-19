@@ -1,0 +1,7 @@
+**/__pycache__
+.vscode/*
+notebooks/training_checkpoints/*
+data/*
+training_checkpoints/*
+notebooks/metadata/*
+notebooks/saved_model/*
